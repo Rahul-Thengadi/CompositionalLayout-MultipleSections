@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		016A92FB27BCB49C00DD5A82 /* LabelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016A92FA27BCB49C00DD5A82 /* LabelCell.swift */; };
 		019B729B27B51C6D00CBA73A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019B729A27B51C6D00CBA73A /* AppDelegate.swift */; };
 		019B729D27B51C6D00CBA73A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019B729C27B51C6D00CBA73A /* SceneDelegate.swift */; };
 		019B729F27B51C6D00CBA73A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019B729E27B51C6D00CBA73A /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		016A92FA27BCB49C00DD5A82 /* LabelCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelCell.swift; sourceTree = "<group>"; };
 		019B729727B51C6D00CBA73A /* CompositionalLayout-MultipleSections.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CompositionalLayout-MultipleSections.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		019B729A27B51C6D00CBA73A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		019B729C27B51C6D00CBA73A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				019B729A27B51C6D00CBA73A /* AppDelegate.swift */,
 				019B729C27B51C6D00CBA73A /* SceneDelegate.swift */,
 				019B729E27B51C6D00CBA73A /* ViewController.swift */,
+				016A92FA27BCB49C00DD5A82 /* LabelCell.swift */,
 				019B72A027B51C6D00CBA73A /* Main.storyboard */,
 				019B72A327B51C6E00CBA73A /* Assets.xcassets */,
 				019B72A527B51C6E00CBA73A /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				019B729F27B51C6D00CBA73A /* ViewController.swift in Sources */,
 				019B729B27B51C6D00CBA73A /* AppDelegate.swift in Sources */,
+				016A92FB27BCB49C00DD5A82 /* LabelCell.swift in Sources */,
 				019B729D27B51C6D00CBA73A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
